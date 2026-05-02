@@ -53,11 +53,13 @@ All models evaluated on the same 120-day held-out test set (Sep–Dec 2025).
 
 ## Repository Structure
 
-├── Case_Study.ipynb          # Full analysis notebook
-├── Presentation.pdf          # Slide deck with findings
-├── Summary.pdf               # Written answers and methodology
-├── requirements.txt          # Python dependencies
-└── README.md                 # Project documentation
+| File | Description |
+|---|---|
+| Case_Study.ipynb | Full analysis notebook |
+| Presentation.pdf | Slide deck with findings |
+| Summary.pdf | Written answers and methodology |
+| requirements.txt | Python dependencies |
+| README.md | Project documentation |
 
 ---
 
