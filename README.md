@@ -6,7 +6,7 @@ End-to-end data analytics case study using 4 years of daily delivery operations 
 
 ## Project Overview
 
-This project analyses the operational performance of an on-demand food delivery platform in Munich. The analysis answers five core business questions using real daily operations data across 1,458 clean days.
+The dataset covers daily delivery operations in Munich from January 2022 to December 2025 across 17 operational metrics including delivery time, fulfillment rate, working hours and city efficiency.
 
 **Tools Used:** Python, Jupyter Notebook, Statsmodels, Prophet, Scikit-learn, Matplotlib, Pandas
 
