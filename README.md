@@ -58,6 +58,8 @@ All models evaluated on the same 120-day held-out test set (Sep–Dec 2025).
 | Case_Study.ipynb | Full analysis notebook |
 | Presentation.pdf | Slide deck with findings |
 | Summary.pdf | Written answers and methodology |
+| munich_delivery_clean.csv | Cleaned dataset used for analysis |
+| metrics_definition.pdf | KPI definitions and order lifecycle |
 | requirements.txt | Python dependencies |
 | README.md | Project documentation |
 
